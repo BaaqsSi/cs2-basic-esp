@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\gowil\source\repos\CS2sucks\CS2sucks\memory.h(35,99): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\gowil\source\repos\CS2sucks\CS2sucks\memory.h(65,66): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\gowil\source\repos\CS2sucks\CS2sucks\helper.h(47,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\gowil\source\repos\CS2sucks\CS2sucks\main.cpp(15,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gowil\source\repos\CS2sucks\CS2sucks\main.cpp(99,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CS2sucks.vcxproj -> C:\Users\gowil\source\repos\CS2sucks\x64\Debug\CS2sucks.exe

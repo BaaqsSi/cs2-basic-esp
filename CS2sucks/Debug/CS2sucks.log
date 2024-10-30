@@ -1,0 +1,18 @@
+﻿  helper.h
+  main.cpp
+  Generating Code...
+main.obj : error LNK2005: "bool __cdecl W2S(struct Vec3 const &,struct Vec2 &,float *)" (?W2S@@YA_NABUVec3@@AAUVec2@@PAM@Z) already defined in helper.obj
+main.obj : error LNK2005: "void __cdecl convertTorange(struct Vec2 &)" (?convertTorange@@YAXAAUVec2@@@Z) already defined in helper.obj
+main.obj : error LNK2019: unresolved external symbol _glewInit@0 referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetWin32Window referenced in function _main
+C:\Users\gowil\source\repos\CS2sucks\CS2sucks\lib\glew32s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\gowil\source\repos\CS2sucks\CS2sucks\lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\gowil\source\repos\CS2sucks\Debug\CS2sucks.exe : fatal error LNK1120: 10 unresolved externals

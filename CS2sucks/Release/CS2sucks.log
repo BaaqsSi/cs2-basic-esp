@@ -1,0 +1,7 @@
+﻿  main.cpp
+Release\entity.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CS2sucks.vcxproj -> C:\Users\gowil\source\repos\CS2sucks\Release\CS2sucks.exe

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\helper.h.obj",
+            "outputs": [
+                "C:\\Users\\gowil\\source\\repos\\CS2sucks\\CS2sucks\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\gowil\\source\\repos\\CS2sucks\\CS2sucks\\x64\\Release\\helper.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "helper.h",
+                    "source-path": "c:\\users\\gowil\\source\\repos\\cs2sucks\\cs2sucks\\helper.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
